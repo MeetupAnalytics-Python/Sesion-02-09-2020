@@ -6,3 +6,5 @@
 "Integración de Python con Apache NiFi para Streaming Analytics" y "Aprendiendo la nueva librería Koalas con Python y Databricks"
 
 La información oficial del evento se encuentra en el siguiente [link](https://www.meetup.com/es/Analytics-y-Python/events/272756136/).
+
+Formulario para participar por una de las 3 Community Pass en el siguiente [link](https://forms.office.com/Pages/ResponsePage.aspx?id=a-MQTtQ1T0GMY2ZLCZNvryPCpEZafNNDuoKAx6-VNyZUQjMxWVI4VlBZUEVSMjFUNkpWS0NIV1ZBQy4u)
