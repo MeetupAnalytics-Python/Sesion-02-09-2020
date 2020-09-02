@@ -2,11 +2,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04-blue.svg)
 [![PyPI - License](https://img.shields.io/pypi/l/virtualenv?style=flat-square)](https://opensource.org/licenses/MIT)
 
-
-"Integración de Python con Apache NiFi para Streaming Analytics" y "Aprendiendo la nueva librería Koalas con Python y Databricks"
-
-
-
 # Meetup Analytics & Python 2 de Septiembre
 "Integración de Python con Apache NiFi para Streaming Analytics" y "Aprendiendo la nueva librería Koalas con Python y Databricks"
 
